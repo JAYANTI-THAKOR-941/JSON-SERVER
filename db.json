@@ -1,8 +1,8 @@
 {
   "products": [
     {
-      "name": "Product 1",
-      "price": 2500,
+      "name": "HP Laptop",
+      "price": "61000",
       "id": "IQX1m1gX7eY"
     }
   ],
